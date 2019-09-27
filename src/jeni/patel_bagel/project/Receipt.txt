@@ -1,0 +1,28 @@
+*******************************
+**      Duplicate Receipt    **
+**            GST#           **
+
+     Sheridan Bagel House      
+2019/04/12      15:13:22
+Item:         Qty         Price
+-------------------------------
+10.0      White Bagel     $12.5 
+Toppings:
+  Cream Cheese             $0.50
+  Butter                   $0.25
+  Blueberry                $0.75
+  Peach                    $0.75
+  Raspberry                $0.75
+Coffee:
+4.0  Cappuccino         $2.00
+                        --------
+Sub Total:                $23.5
+Tax:  (13%)               $3.06
+Total:                    $26.56
+Paid:                     $26.56
+Change Due                $00.00
+
+Host Order Id: 621-456-218681
+
+**Thank You For Your Order At**
+**    Sheridan Bagel Shop:   **
